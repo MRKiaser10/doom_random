@@ -5,6 +5,8 @@ edition = "2024"
 description = "A fast, deterministic RNG based on DOOM's (1993) original implementation."
 keywords = ["random", "rng", "doom", "game", "deterministic"]
 authors = ["Parsa Asadi <pcparsa2022@gmail.com>"]
+repository = "https://github.com/MRKiaser10/doom_random/"
+readme = "README.md"
 license = "GPL-3.0-only"
 
 [dependencies]
